@@ -1,0 +1,10 @@
+github.com/aminsaedi/atvremote v1.0.1 h1:WfnKaXfVtu+qfTz8mVTWDD7q1J7FAYHDR3SzYLJLbOA=
+github.com/aminsaedi/atvremote v1.0.1/go.mod h1:JRUxQEBIEopp7YVJoV3KAPMOz4dF73RgCKxlL51Q7Q8=
+github.com/drosocode/atvremote v0.1.3 h1:qYlatYqQGXA6FxPopR2/DoSOJFUTBDeWB0zEyj+b5Ao=
+github.com/drosocode/atvremote v0.1.3/go.mod h1:MmZQ7S48dk22rqEbt8jmYmqZp7AQr8/z+Hkk10L03K4=
+github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1 h1:wG8n/XJQ07TmjbITcGiUaOtXxdrINDz1b0J1w0SzqDc=
+github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1/go.mod h1:A2S0CWkNylc2phvKXWBBdD3K0iGnDBGbzRpISP2zBl8=
+github.com/google/go-cmp v0.5.5 h1:Khx7svrCpmxxtHBq5j2mp/xVjsi8hQMfNLvJFAlrGgU=
+golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 h1:go1bK/D/BFZV2I8cIQd1NKEZ+0owSTG1fDTci4IqFcE=
+google.golang.org/protobuf v1.34.1 h1:9ddQBjfCyZPOHPUiPxpYESBLc+T8P3E+Vo4IbKZgFWg=
+google.golang.org/protobuf v1.34.1/go.mod h1:c6P6GXX6sHbq/GpV6MGZEdwhWPcYBgnhAHhKbcUYpos=
