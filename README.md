@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a Go project that allows you to control your Android TV using a Telegram bot. With this bot, you can control your Chromcast / TV just as you do it with its remote control!
+This is a Go project that allows you to control your Android TV using a Telegram bot. With this bot, you can control your Chromecast / TV just as you do it with its remote control!
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ This is a Go project that allows you to control your Android TV using a Telegram
 
 - Telegram bot tken (you can get it from [BotFather](https://telegram.me/BotFather))
 - Docker installed on your machine (should be on the same network as TV is)
-- Android TV / Google TV / Chromcast with Android version >= 5
+- Android TV / Google TV / Chromecast with Android version >= 5
 
 ### Installation
 
