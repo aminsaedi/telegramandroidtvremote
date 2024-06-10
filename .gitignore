@@ -22,3 +22,8 @@ go.work
 go.work.sum
 
 *.pem
+
+
+*.env
+
+gotelgrampi

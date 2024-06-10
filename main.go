@@ -38,7 +38,7 @@ var numericKeyboard = tgbotapi.NewInlineKeyboardMarkup(
 
 var (
 	certs, err = tls.LoadX509KeyPair("cert.pem", "key.pem")
-	cmd        = v2c.New("192.168.0.183", 6466, &certs)
+	cmd        = v2c.New("tv", 6466, &certs)
 )
 
 func connect() {
@@ -111,8 +111,6 @@ func main() {
 	}
 
 	// bot.Debug = true
-
-	log.Printf("Authorized on account %s", bot.Self.UserName)
 
 	u := tgbotapi.NewUpdate(0)
 	u.Timeout = 60

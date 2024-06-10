@@ -15,7 +15,7 @@ This is a Go project that allows you to control your Android TV using a Telegram
 ### Installation
 
 ```bash
-docker run -d --add-host=tv:<YOUR_TV_IP_ADDRESS> --name telegram-tv-remote telegramandroidtvremote
+docker run --rm --add-host=tv:<TV_IP_ADDRESS> --name telegram-tv-remote -e TELEGRAM_APITOKEN=<TELEGRAM_BOT_TOKEN> aminsaedi/t-bot
 ```
 
 ## Usage
